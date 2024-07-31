@@ -24,7 +24,7 @@ body {
     display: flex;
 }
 
-.container{
+.container-reverse{
     display: flex;
     gap: 7px;
     flex-direction: row;
