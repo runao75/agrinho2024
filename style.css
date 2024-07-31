@@ -20,10 +20,9 @@ header {
     padding: auto;
     margin: 0;
     height: 25%;
-    text-align: center;
 }
 
-.container-reverse{
+.container-reverse {
     background-color: var(--cor-de-fundo);
     box-shadow: none;
     padding: 20px;
