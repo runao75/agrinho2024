@@ -22,21 +22,16 @@ header {
     height: 25%;
 }
 
-.container-reverse {
-    background-color: var(--cor-de-fundo);
-    box-shadow: none;
-    padding: 20px;
-    width: 300px;
-    display: flex;
-    gap: 7px;
-    flex-direction: row;
+.container img{
+    display: inline-block;
+    width: 25%;
+    height: auto;
+    margin-top: 9px;
 }
 
-.container-reverse img{
-    display: inline-block;
-    width: 120%;
-    height: 197px;
-    margin-top: 25px;
+.container{
+    display: flex;
+    gap: 9px;
 }
 
 h1 {
