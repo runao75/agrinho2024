@@ -10,7 +10,7 @@
 body{
     background-color: var(--cor-de-fundo);
     color: var(--cor-de-texto);
-    font-family: 'EB+Garamond';
+    font-family: 'EB Garamond';
 }
 
     header {
@@ -24,7 +24,7 @@ body{
         text-align: left;
         width: 100%;
         font-size: 32px;
-        font-family: 'EB+Garamond';
+        font-family: 'EB Garamond';
         margin-top: 5px;
     }
 
