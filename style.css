@@ -44,7 +44,7 @@ body{
         height: 100px;
     }
 
-    .container.reverse{
+    .container-reverse{
         flex-direction: row-reverse;
         width: 45%;
         height: auto;
