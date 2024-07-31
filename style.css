@@ -23,7 +23,7 @@ body {
 
 .container img{
     display: flex;
-    width: 30%;
+    width: 120%;
     height: auto;
     margin-top: 25px;
 }
