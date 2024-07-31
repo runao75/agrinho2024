@@ -31,7 +31,10 @@ h1 {
     color: #333;
     font-size: 24px;
     margin-top:auto;
+    text-align: center;
+    box-shadow: none;
 }
+
 
 p {
     color: #666;
