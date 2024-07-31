@@ -37,10 +37,10 @@ header {
     flex-direction: row;
 }
 
-.container img{
+.container-reverse img{
     display: inline-block;
     width: 120%;
-    height: auto;
+    height: 197px;
     margin-top: 25px;
 }
 
